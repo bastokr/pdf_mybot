@@ -1,0 +1,588 @@
+ [31merror[39m - lib/parse-form.ts (8:31) @ formidable
+[31merror[39m - TypeError: Cannot read properties of undefined (reading 'FormidableError')
+    at eval (webpack-internal:///(api)/./lib/parse-form.ts:23:83)
+[0m [90m  6 | [39m[36mimport[39m { mkdir[33m,[39m stat } [36mfrom[39m [32m"fs/promises"[39m[33m;[39m[0m
+[0m [90m  7 | [39m[0m
+[0m[31m[1m>[22m[39m[90m  8 | [39m[36mexport[39m [36mconst[39m [33mFormidableError[39m [33m=[39m formidable[33m.[39merrors[33m.[39m[33mFormidableError[39m[33m;[39m[0m
+[0m [90m    | [39m                              [31m[1m^[22m[39m[0m
+[0m [90m  9 | [39m[0m
+[0m [90m 10 | [39m[36mexport[39m [36mconst[39m parseForm [33m=[39m [36masync[39m ([0m
+[0m [90m 11 | [39m  req[33m:[39m [33mNextApiRequest[39m[0m
+[31merror[39m - lib/parse-form.ts (8:31) @ formidable
+[31merror[39m - TypeError: Cannot read properties of undefined (reading 'FormidableError')
+    at eval (webpack-internal:///(api)/./lib/parse-form.ts:23:83)
+[0m [90m  6 | [39m[36mimport[39m { mkdir[33m,[39m stat } [36mfrom[39m [32m"fs/promises"[39m[33m;[39m[0m
+[0m [90m  7 | [39m[0m
+[0m[31m[1m>[22m[39m[90m  8 | [39m[36mexport[39m [36mconst[39m [33mFormidableError[39m [33m=[39m formidable[33m.[39merrors[33m.[39m[33mFormidableError[39m[33m;[39m[0m
+[0m [90m    | [39m                              [31m[1m^[22m[39m[0m
+[0m [90m  9 | [39m[0m
+[0m [90m 10 | [39m[36mexport[39m [36mconst[39m parseForm [33m=[39m [36masync[39m ([0m
+[0m [90m 11 | [39m  req[33m:[39m [33mNextApiRequest[39m[0m
+[31merror[39m - lib/parse-form.ts (8:31) @ formidable
+[31merror[39m - TypeError: Cannot read properties of undefined (reading 'FormidableError')
+    at eval (webpack-internal:///(api)/./lib/parse-form.ts:23:83)
+[0m [90m  6 | [39m[36mimport[39m { mkdir[33m,[39m stat } [36mfrom[39m [32m"fs/promises"[39m[33m;[39m[0m
+[0m [90m  7 | [39m[0m
+[0m[31m[1m>[22m[39m[90m  8 | [39m[36mexport[39m [36mconst[39m [33mFormidableError[39m [33m=[39m formidable[33m.[39merrors[33m.[39m[33mFormidableError[39m[33m;[39m[0m
+[0m [90m    | [39m                              [31m[1m^[22m[39m[0m
+[0m [90m  9 | [39m[0m
+[0m [90m 10 | [39m[36mexport[39m [36mconst[39m parseForm [33m=[39m [36masync[39m ([0m
+[0m [90m 11 | [39m  req[33m:[39m [33mNextApiRequest[39m[0m
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 88 ms (273 modules)
+[36mwait[39m  - compiling /api/upload (client and server)...
+[35mevent[39m - compiled successfully in 18 ms (82 modules)
+[31merror[39m - lib/parse-form.ts (8:31) @ formidable
+[31merror[39m - TypeError: Cannot read properties of undefined (reading 'FormidableError')
+    at eval (webpack-internal:///(api)/./lib/parse-form.ts:23:83)
+[0m [90m  6 | [39m[36mimport[39m { mkdir[33m,[39m stat } [36mfrom[39m [32m"fs/promises"[39m[33m;[39m[0m
+[0m [90m  7 | [39m[0m
+[0m[31m[1m>[22m[39m[90m  8 | [39m[36mexport[39m [36mconst[39m [33mFormidableError[39m [33m=[39m formidable[33m.[39merrors[33m.[39m[33mFormidableError[39m[33m;[39m[0m
+[0m [90m    | [39m                              [31m[1m^[22m[39m[0m
+[0m [90m  9 | [39m[0m
+[0m [90m 10 | [39m[36mexport[39m [36mconst[39m parseForm [33m=[39m [36masync[39m ([0m
+[0m [90m 11 | [39m  req[33m:[39m [33mNextApiRequest[39m[0m
+[36mwait[39m  - compiling /_error (client and server)...
+[35mevent[39m - compiled client and server successfully in 53 ms (290 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 69 ms (273 modules)
+[36mwait[39m  - compiling /api/upload (client and server)...
+[35mevent[39m - compiled successfully in 16 ms (82 modules)
+[31merror[39m - lib/parse-form.ts (8:31) @ formidable
+[31merror[39m - TypeError: Cannot read properties of undefined (reading 'FormidableError')
+    at eval (webpack-internal:///(api)/./lib/parse-form.ts:23:83)
+[0m [90m  6 | [39m[36mimport[39m { mkdir[33m,[39m stat } [36mfrom[39m [32m"fs/promises"[39m[33m;[39m[0m
+[0m [90m  7 | [39m[0m
+[0m[31m[1m>[22m[39m[90m  8 | [39m[36mexport[39m [36mconst[39m [33mFormidableError[39m [33m=[39m formidable[33m.[39merrors[33m.[39m[33mFormidableError[39m[33m;[39m[0m
+[0m [90m    | [39m                              [31m[1m^[22m[39m[0m
+[0m [90m  9 | [39m[0m
+[0m [90m 10 | [39m[36mexport[39m [36mconst[39m parseForm [33m=[39m [36masync[39m ([0m
+[0m [90m 11 | [39m  req[33m:[39m [33mNextApiRequest[39m[0m
+[36mwait[39m  - compiling /_error (client and server)...
+[35mevent[39m - compiled client and server successfully in 43 ms (290 modules)
+[31merror[39m - lib/parse-form.ts (8:31) @ formidable
+[31merror[39m - TypeError: Cannot read properties of undefined (reading 'FormidableError')
+    at eval (webpack-internal:///(api)/./lib/parse-form.ts:23:83)
+[0m [90m  6 | [39m[36mimport[39m { mkdir[33m,[39m stat } [36mfrom[39m [32m"fs/promises"[39m[33m;[39m[0m
+[0m [90m  7 | [39m[0m
+[0m[31m[1m>[22m[39m[90m  8 | [39m[36mexport[39m [36mconst[39m [33mFormidableError[39m [33m=[39m formidable[33m.[39merrors[33m.[39m[33mFormidableError[39m[33m;[39m[0m
+[0m [90m    | [39m                              [31m[1m^[22m[39m[0m
+[0m [90m  9 | [39m[0m
+[0m [90m 10 | [39m[36mexport[39m [36mconst[39m parseForm [33m=[39m [36masync[39m ([0m
+[0m [90m 11 | [39m  req[33m:[39m [33mNextApiRequest[39m[0m
+[31merror[39m - lib/parse-form.ts (8:31) @ formidable
+[31merror[39m - TypeError: Cannot read properties of undefined (reading 'FormidableError')
+    at eval (webpack-internal:///(api)/./lib/parse-form.ts:23:83)
+[0m [90m  6 | [39m[36mimport[39m { mkdir[33m,[39m stat } [36mfrom[39m [32m"fs/promises"[39m[33m;[39m[0m
+[0m [90m  7 | [39m[0m
+[0m[31m[1m>[22m[39m[90m  8 | [39m[36mexport[39m [36mconst[39m [33mFormidableError[39m [33m=[39m formidable[33m.[39merrors[33m.[39m[33mFormidableError[39m[33m;[39m[0m
+[0m [90m    | [39m                              [31m[1m^[22m[39m[0m
+[0m [90m  9 | [39m[0m
+[0m [90m 10 | [39m[36mexport[39m [36mconst[39m parseForm [33m=[39m [36masync[39m ([0m
+[0m [90m 11 | [39m  req[33m:[39m [33mNextApiRequest[39m[0m
+Killed
+
+> gpt4-langchain-pdf-chatbot@0.1.0 dev
+> next dev
+
+[32mready[39m - started server on 0.0.0.0:3000, url: http://localhost:3000
+[36minfo[39m  - Loaded env from /home/skpark/git/pdf_mybot/.env
+[35mevent[39m - compiled client and server successfully in 880 ms (173 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled successfully in 66 ms (139 modules)
+[36mwait[39m  - compiling /_error (client and server)...
+[35mevent[39m - compiled client and server successfully in 247 ms (174 modules)
+[33mwarn[39m  - Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[36mwait[39m  - compiling /up (client and server)...
+[35mevent[39m - compiled client and server successfully in 192 ms (272 modules)
+[33mwarn[39m  - Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[36mwait[39m  - compiling /api/upload (client and server)...
+[35mevent[39m - compiled successfully in 36 ms (82 modules)
+[36mwait[39m  - compiling /_error (client and server)...
+[31merror[39m - lib/parse-form.ts (8:31) @ formidable
+[31merror[39m - TypeError: Cannot read properties of undefined (reading 'FormidableError')
+    at eval (webpack-internal:///(api)/./lib/parse-form.ts:23:83)
+[0m [90m  6 | [39m[36mimport[39m { mkdir[33m,[39m stat } [36mfrom[39m [32m"fs/promises"[39m[33m;[39m[0m
+[0m [90m  7 | [39m[0m
+[0m[31m[1m>[22m[39m[90m  8 | [39m[36mexport[39m [36mconst[39m [33mFormidableError[39m [33m=[39m formidable[33m.[39merrors[33m.[39m[33mFormidableError[39m[33m;[39m[0m
+[0m [90m    | [39m                              [31m[1m^[22m[39m[0m
+[0m [90m  9 | [39m[0m
+[0m [90m 10 | [39m[36mexport[39m [36mconst[39m parseForm [33m=[39m [36masync[39m ([0m
+[0m [90m 11 | [39m  req[33m:[39m [33mNextApiRequest[39m[0m
+[35mevent[39m - compiled client and server successfully in 58 ms (288 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 66 ms (271 modules)
+[36mwait[39m  - compiling /api/upload (client and server)...
+[35mevent[39m - compiled successfully in 14 ms (82 modules)
+[31merror[39m - lib/parse-form.ts (8:31) @ formidable
+[31merror[39m - TypeError: Cannot read properties of undefined (reading 'FormidableError')
+    at eval (webpack-internal:///(api)/./lib/parse-form.ts:23:83)
+[0m [90m  6 | [39m[36mimport[39m { mkdir[33m,[39m stat } [36mfrom[39m [32m"fs/promises"[39m[33m;[39m[0m
+[0m [90m  7 | [39m[0m
+[0m[31m[1m>[22m[39m[90m  8 | [39m[36mexport[39m [36mconst[39m [33mFormidableError[39m [33m=[39m formidable[33m.[39merrors[33m.[39m[33mFormidableError[39m[33m;[39m[0m
+[0m [90m    | [39m                              [31m[1m^[22m[39m[0m
+[0m [90m  9 | [39m[0m
+[0m [90m 10 | [39m[36mexport[39m [36mconst[39m parseForm [33m=[39m [36masync[39m ([0m
+[0m [90m 11 | [39m  req[33m:[39m [33mNextApiRequest[39m[0m
+[36mwait[39m  - compiling /_error (client and server)...
+[35mevent[39m - compiled client and server successfully in 42 ms (288 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 62 ms (271 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 50 ms (271 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 81 ms (271 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 54 ms (271 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 148 ms (271 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled successfully in 18 ms (205 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled successfully in 26 ms (205 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled successfully in 23 ms (205 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled successfully in 75 ms (205 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 77 ms (271 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 50 ms (271 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled successfully in 20 ms (205 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 30 ms (271 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled successfully in 22 ms (205 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled successfully in 20 ms (205 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled successfully in 17 ms (205 modules)
+Killed
+
+> gpt4-langchain-pdf-chatbot@0.1.0 dev
+> next dev
+
+[32mready[39m - started server on 0.0.0.0:3000, url: http://localhost:3000
+[36minfo[39m  - Loaded env from /home/skpark/git/pdf_mybot/.env
+[35mevent[39m - compiled client and server successfully in 937 ms (173 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled successfully in 69 ms (139 modules)
+[36mwait[39m  - compiling /api/upload (client and server)...
+[35mevent[39m - compiled successfully in 22 ms (50 modules)
+[36mwait[39m  - compiling /_error (client and server)...
+[31merror[39m - lib/parse-form.ts (8:31) @ formidable
+[31merror[39m - TypeError: Cannot read properties of undefined (reading 'FormidableError')
+    at eval (webpack-internal:///(api)/./lib/parse-form.ts:23:83)
+[0m [90m  6 | [39m[36mimport[39m { mkdir[33m,[39m stat } [36mfrom[39m [32m"fs/promises"[39m[33m;[39m[0m
+[0m [90m  7 | [39m[0m
+[0m[31m[1m>[22m[39m[90m  8 | [39m[36mexport[39m [36mconst[39m [33mFormidableError[39m [33m=[39m formidable[33m.[39merrors[33m.[39m[33mFormidableError[39m[33m;[39m[0m
+[0m [90m    | [39m                              [31m[1m^[22m[39m[0m
+[0m [90m  9 | [39m[0m
+[0m [90m 10 | [39m[36mexport[39m [36mconst[39m parseForm [33m=[39m [36masync[39m ([0m
+[0m [90m 11 | [39m  req[33m:[39m [33mNextApiRequest[39m[0m
+[35mevent[39m - compiled client and server successfully in 191 ms (190 modules)
+[33mwarn[39m  - Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[36mwait[39m  - compiling /up (client and server)...
+[35mevent[39m - compiled client and server successfully in 382 ms (288 modules)
+[33mwarn[39m  - Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[31merror[39m - lib/parse-form.ts (8:31) @ formidable
+[31merror[39m - TypeError: Cannot read properties of undefined (reading 'FormidableError')
+    at eval (webpack-internal:///(api)/./lib/parse-form.ts:23:83)
+[0m [90m  6 | [39m[36mimport[39m { mkdir[33m,[39m stat } [36mfrom[39m [32m"fs/promises"[39m[33m;[39m[0m
+[0m [90m  7 | [39m[0m
+[0m[31m[1m>[22m[39m[90m  8 | [39m[36mexport[39m [36mconst[39m [33mFormidableError[39m [33m=[39m formidable[33m.[39merrors[33m.[39m[33mFormidableError[39m[33m;[39m[0m
+[0m [90m    | [39m                              [31m[1m^[22m[39m[0m
+[0m [90m  9 | [39m[0m
+[0m [90m 10 | [39m[36mexport[39m [36mconst[39m parseForm [33m=[39m [36masync[39m ([0m
+[0m [90m 11 | [39m  req[33m:[39m [33mNextApiRequest[39m[0m
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 80 ms (271 modules)
+[36mwait[39m  - compiling /api/upload (client and server)...
+[35mevent[39m - compiled successfully in 18 ms (82 modules)
+[31merror[39m - lib/parse-form.ts (8:31) @ formidable
+[31merror[39m - TypeError: Cannot read properties of undefined (reading 'FormidableError')
+    at eval (webpack-internal:///(api)/./lib/parse-form.ts:23:83)
+[0m [90m  6 | [39m[36mimport[39m { mkdir[33m,[39m stat } [36mfrom[39m [32m"fs/promises"[39m[33m;[39m[0m
+[0m [90m  7 | [39m[0m
+[0m[31m[1m>[22m[39m[90m  8 | [39m[36mexport[39m [36mconst[39m [33mFormidableError[39m [33m=[39m formidable[33m.[39merrors[33m.[39m[33mFormidableError[39m[33m;[39m[0m
+[0m [90m    | [39m                              [31m[1m^[22m[39m[0m
+[0m [90m  9 | [39m[0m
+[0m [90m 10 | [39m[36mexport[39m [36mconst[39m parseForm [33m=[39m [36masync[39m ([0m
+[0m [90m 11 | [39m  req[33m:[39m [33mNextApiRequest[39m[0m
+[36mwait[39m  - compiling /_error (client and server)...
+[35mevent[39m - compiled client and server successfully in 34 ms (288 modules)
+[31merror[39m - lib/parse-form.ts (8:31) @ formidable
+[31merror[39m - TypeError: Cannot read properties of undefined (reading 'FormidableError')
+    at eval (webpack-internal:///(api)/./lib/parse-form.ts:23:83)
+[0m [90m  6 | [39m[36mimport[39m { mkdir[33m,[39m stat } [36mfrom[39m [32m"fs/promises"[39m[33m;[39m[0m
+[0m [90m  7 | [39m[0m
+[0m[31m[1m>[22m[39m[90m  8 | [39m[36mexport[39m [36mconst[39m [33mFormidableError[39m [33m=[39m formidable[33m.[39merrors[33m.[39m[33mFormidableError[39m[33m;[39m[0m
+[0m [90m    | [39m                              [31m[1m^[22m[39m[0m
+[0m [90m  9 | [39m[0m
+[0m [90m 10 | [39m[36mexport[39m [36mconst[39m parseForm [33m=[39m [36masync[39m ([0m
+[0m [90m 11 | [39m  req[33m:[39m [33mNextApiRequest[39m[0m
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled successfully in 119 ms (205 modules)
+[36mwait[39m  - compiling / (client and server)...
+[31merror[39m - ./pages/index.tsx:8:0
+[31m[1mModule not found[22m[39m: Can't resolve '[32m../components/Layout[39m'
+[0m [90m  6 | [39m[36mimport[39m [33mSimpleProgressBar[39m [36mfrom[39m [32m"../components/common/SimpleProgressBar"[39m[33m;[39m[0m
+[0m [90m  7 | [39m[36mimport[39m [33mHeader[39m [36mfrom[39m [32m"../components/Header"[39m[33m;[39m[0m
+[0m[31m[1m>[22m[39m[90m  8 | [39m[36mimport[39m [33mLayout[39m [36mfrom[39m [32m"../components/Layout"[39m[33m;[39m[0m
+[0m [90m  9 | [39m[0m
+[0m [90m 10 | [39m[36mconst[39m [33mHome[39m[33m:[39m [33mNextPage[39m [33m=[39m () [33m=>[39m {[0m
+[0m [90m 11 | [39m  [36mconst[39m [progress[33m,[39m setProgress] [33m=[39m useState([35m0[39m)[33m;[39m[0m
+
+https://nextjs.org/docs/messages/module-not-found
+[36mwait[39m  - compiling /_error (client and server)...
+[31merror[39m - ./pages/index.tsx:8:0
+[31m[1mModule not found[22m[39m: Can't resolve '[32m../components/Layout[39m'
+[0m [90m  6 | [39m[36mimport[39m [33mSimpleProgressBar[39m [36mfrom[39m [32m"../components/common/SimpleProgressBar"[39m[33m;[39m[0m
+[0m [90m  7 | [39m[36mimport[39m [33mHeader[39m [36mfrom[39m [32m"../components/Header"[39m[33m;[39m[0m
+[0m[31m[1m>[22m[39m[90m  8 | [39m[36mimport[39m [33mLayout[39m [36mfrom[39m [32m"../components/Layout"[39m[33m;[39m[0m
+[0m [90m  9 | [39m[0m
+[0m [90m 10 | [39m[36mconst[39m [33mHome[39m[33m:[39m [33mNextPage[39m [33m=[39m () [33m=>[39m {[0m
+[0m [90m 11 | [39m  [36mconst[39m [progress[33m,[39m setProgress] [33m=[39m useState([35m0[39m)[33m;[39m[0m
+
+https://nextjs.org/docs/messages/module-not-found
+[36mwait[39m  - compiling...
+[31merror[39m - ./pages/index.tsx:8:0
+[31m[1mModule not found[22m[39m: Can't resolve '[32m./components/Layout[39m'
+[0m [90m  6 | [39m[36mimport[39m [33mSimpleProgressBar[39m [36mfrom[39m [32m"../components/common/SimpleProgressBar"[39m[33m;[39m[0m
+[0m [90m  7 | [39m[36mimport[39m [33mHeader[39m [36mfrom[39m [32m"./components/Header"[39m[33m;[39m[0m
+[0m[31m[1m>[22m[39m[90m  8 | [39m[36mimport[39m [33mLayout[39m [36mfrom[39m [32m"./components/Layout"[39m[33m;[39m[0m
+[0m [90m  9 | [39m[0m
+[0m [90m 10 | [39m[36mconst[39m [33mHome[39m[33m:[39m [33mNextPage[39m [33m=[39m () [33m=>[39m {[0m
+[0m [90m 11 | [39m  [36mconst[39m [progress[33m,[39m setProgress] [33m=[39m useState([35m0[39m)[33m;[39m[0m
+
+https://nextjs.org/docs/messages/module-not-found
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 199 ms (174 modules)
+[33mwarn[39m  - Fast Refresh had to perform a full reload due to a runtime error.
+[36mwait[39m  - compiling / (client and server)...
+[35mevent[39m - compiled client and server successfully in 82 ms (247 modules)
+ReferenceError: Layout is not defined
+    at Home (webpack-internal:///./pages/index.tsx:90:88)
+    at renderWithHooks [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5658:16[90m)[39m
+    at renderIndeterminateComponent [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5731:15[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5946:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderNode [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6259:12[90m)[39m
+    at renderHostElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5642:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5952:5[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5971:9[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderIndeterminateComponent [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5785:7[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5946:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderNode [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6259:12[90m)[39m
+    at renderChildrenArray [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6211:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6141:7[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5971:9[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderNode [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6259:12[90m)[39m
+    at renderChildrenArray [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6211:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6141:7[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5971:9[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderContextProvider [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5920:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6017:11[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderContextProvider [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5920:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6017:11[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderIndeterminateComponent [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5785:7[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5946:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderContextProvider [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5920:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6017:11[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderContextProvider [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5920:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6017:11[90m)[39m
+[31merror[39m - pages/index.tsx (102:5) @ Layout
+[31merror[39m - ReferenceError: Layout is not defined
+    at Home (webpack-internal:///./pages/index.tsx:90:88)
+    at renderWithHooks [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5658:16[90m)[39m
+    at renderIndeterminateComponent [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5731:15[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5946:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderNode [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6259:12[90m)[39m
+    at renderHostElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5642:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5952:5[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5971:9[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderIndeterminateComponent [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5785:7[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5946:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderNode [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6259:12[90m)[39m
+    at renderChildrenArray [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6211:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6141:7[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5971:9[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderNode [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6259:12[90m)[39m
+    at renderChildrenArray [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6211:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6141:7[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5971:9[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderContextProvider [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5920:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6017:11[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderContextProvider [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5920:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6017:11[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderIndeterminateComponent [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5785:7[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5946:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderContextProvider [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5920:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6017:11[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderContextProvider [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5920:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6017:11[90m)[39m {
+  page: [32m'/'[39m
+}
+[0m [90m 100 | [39m[0m
+[0m [90m 101 | [39m  [36mreturn[39m ([0m
+[0m[31m[1m>[22m[39m[90m 102 | [39m    [33m<[39m[33mLayout[39m[33m>[39m[0m
+[0m [90m     | [39m    [31m[1m^[22m[39m[0m
+[0m [90m 103 | [39m      [33m<[39m[33mHead[39m[33m>[39m[0m
+[0m [90m 104 | [39m        [33m<[39m[33mtitle[39m[33m>[39m[33mFile[39m uploader[33m<[39m[33m/[39m[33mtitle[39m[33m>[39m[0m
+[0m [90m 105 | [39m        [33m<[39m[33mmeta[39m name[33m=[39m[32m"description"[39m content[33m=[39m[32m"File uploader"[39m [33m/[39m[33m>[39m[0m
+[33mwarn[39m  - Fast Refresh had to perform a full reload due to a runtime error.
+ReferenceError: Layout is not defined
+    at Home (webpack-internal:///./pages/index.tsx:90:88)
+    at renderWithHooks [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5658:16[90m)[39m
+    at renderIndeterminateComponent [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5731:15[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5946:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderNode [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6259:12[90m)[39m
+    at renderHostElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5642:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5952:5[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5971:9[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderIndeterminateComponent [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5785:7[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5946:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderNode [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6259:12[90m)[39m
+    at renderChildrenArray [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6211:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6141:7[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5971:9[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderNode [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6259:12[90m)[39m
+    at renderChildrenArray [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6211:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6141:7[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5971:9[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderContextProvider [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5920:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6017:11[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderContextProvider [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5920:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6017:11[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderIndeterminateComponent [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5785:7[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5946:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderContextProvider [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5920:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6017:11[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderContextProvider [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5920:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6017:11[90m)[39m
+[31merror[39m - pages/index.tsx (102:5) @ Layout
+[31merror[39m - ReferenceError: Layout is not defined
+    at Home (webpack-internal:///./pages/index.tsx:90:88)
+    at renderWithHooks [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5658:16[90m)[39m
+    at renderIndeterminateComponent [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5731:15[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5946:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderNode [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6259:12[90m)[39m
+    at renderHostElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5642:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5952:5[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5971:9[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderIndeterminateComponent [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5785:7[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5946:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderNode [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6259:12[90m)[39m
+    at renderChildrenArray [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6211:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6141:7[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5971:9[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderNode [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6259:12[90m)[39m
+    at renderChildrenArray [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6211:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6141:7[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5971:9[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderContextProvider [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5920:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6017:11[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderContextProvider [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5920:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6017:11[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderIndeterminateComponent [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5785:7[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5946:7[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderContextProvider [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5920:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6017:11[90m)[39m
+    at renderNodeDestructiveImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6104:11[90m)[39m
+    at renderNodeDestructive [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6076:14[90m)[39m
+    at renderContextProvider [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:5920:3[90m)[39m
+    at renderElement [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mreact-dom[24m/cjs/react-dom-server.browser.development.js:6017:11[90m)[39m {
+  page: [32m'/'[39m
+}
+[0m [90m 100 | [39m[0m
+[0m [90m 101 | [39m  [36mreturn[39m ([0m
+[0m[31m[1m>[22m[39m[90m 102 | [39m    [33m<[39m[33mLayout[39m[33m>[39m[0m
+[0m [90m     | [39m    [31m[1m^[22m[39m[0m
+[0m [90m 103 | [39m      [33m<[39m[33mHead[39m[33m>[39m[0m
+[0m [90m 104 | [39m        [33m<[39m[33mtitle[39m[33m>[39m[33mFile[39m uploader[33m<[39m[33m/[39m[33mtitle[39m[33m>[39m[0m
+[0m [90m 105 | [39m        [33m<[39m[33mmeta[39m name[33m=[39m[32m"description"[39m content[33m=[39m[32m"File uploader"[39m [33m/[39m[33m>[39m[0m
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 75 ms (174 modules)
+[33mwarn[39m  - Fast Refresh had to perform a full reload due to a runtime error.
+[36mwait[39m  - compiling / (client and server)...
+[35mevent[39m - compiled client and server successfully in 32 ms (177 modules)
+[31merror[39m - Error: The default export is not a React Component in page: "/"
+    at Object.renderToHTML [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/render.js:223:19[90m)[39m
+    at DevServer.renderHTMLImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:535:29[90m)[39m
+    at [90m/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:523:105
+    at NextTracerImpl.trace [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/lib/trace/tracer.js:56:20[90m)[39m
+    at DevServer.renderHTML [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:523:41[90m)[39m
+    at doRender [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/base-server.js:809:45[90m)[39m
+    at async cacheEntry1.responseCache.get.incrementalCache.incrementalCache [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/base-server.js:929:28[90m)[39m
+    at async [90m/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/response-cache/index.js:83:36 {
+  page: [32m'/'[39m
+}
+[33mwarn[39m  - Fast Refresh had to perform a full reload due to a runtime error.
+[31merror[39m - Error: The default export is not a React Component in page: "/"
+    at Object.renderToHTML [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/render.js:223:19[90m)[39m
+    at DevServer.renderHTMLImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:535:29[90m)[39m
+    at [90m/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:523:105
+    at NextTracerImpl.trace [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/lib/trace/tracer.js:56:20[90m)[39m
+    at DevServer.renderHTML [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:523:41[90m)[39m
+    at doRender [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/base-server.js:809:45[90m)[39m
+    at async cacheEntry1.responseCache.get.incrementalCache.incrementalCache [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/base-server.js:929:28[90m)[39m
+    at async [90m/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/response-cache/index.js:83:36 {
+  page: [32m'/'[39m
+}
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 78 ms (177 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 71 ms (177 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 83 ms (177 modules)
+[31merror[39m - Error: The default export is not a React Component in page: "/"
+    at Object.renderToHTML [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/render.js:223:19[90m)[39m
+    at DevServer.renderHTMLImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:535:29[90m)[39m
+    at [90m/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:523:105
+    at NextTracerImpl.trace [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/lib/trace/tracer.js:56:20[90m)[39m
+    at DevServer.renderHTML [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:523:41[90m)[39m
+    at doRender [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/base-server.js:809:45[90m)[39m
+    at async cacheEntry1.responseCache.get.incrementalCache.incrementalCache [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/base-server.js:929:28[90m)[39m
+    at async [90m/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/response-cache/index.js:83:36 {
+  page: [32m'/'[39m
+}
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 94 ms (177 modules)
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 84 ms (174 modules)
+[33mwarn[39m  - Fast Refresh had to perform a full reload due to a runtime error.
+[36mwait[39m  - compiling / (client and server)...
+[35mevent[39m - compiled client and server successfully in 30 ms (177 modules)
+[31merror[39m - Error: The default export is not a React Component in page: "/"
+    at Object.renderToHTML [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/render.js:223:19[90m)[39m
+    at DevServer.renderHTMLImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:535:29[90m)[39m
+    at [90m/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:523:105
+    at NextTracerImpl.trace [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/lib/trace/tracer.js:56:20[90m)[39m
+    at DevServer.renderHTML [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:523:41[90m)[39m
+    at doRender [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/base-server.js:809:45[90m)[39m
+    at async cacheEntry1.responseCache.get.incrementalCache.incrementalCache [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/base-server.js:929:28[90m)[39m
+    at async [90m/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/response-cache/index.js:83:36 {
+  page: [32m'/'[39m
+}
+[33mwarn[39m  - Fast Refresh had to perform a full reload due to a runtime error.
+[31merror[39m - Error: The default export is not a React Component in page: "/"
+    at Object.renderToHTML [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/render.js:223:19[90m)[39m
+    at DevServer.renderHTMLImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:535:29[90m)[39m
+    at [90m/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:523:105
+    at NextTracerImpl.trace [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/lib/trace/tracer.js:56:20[90m)[39m
+    at DevServer.renderHTML [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:523:41[90m)[39m
+    at doRender [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/base-server.js:809:45[90m)[39m
+    at async cacheEntry1.responseCache.get.incrementalCache.incrementalCache [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/base-server.js:929:28[90m)[39m
+    at async [90m/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/response-cache/index.js:83:36 {
+  page: [32m'/'[39m
+}
+[31merror[39m - Error: The default export is not a React Component in page: "/"
+    at Object.renderToHTML [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/render.js:223:19[90m)[39m
+    at DevServer.renderHTMLImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:535:29[90m)[39m
+    at [90m/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:523:105
+    at NextTracerImpl.trace [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/lib/trace/tracer.js:56:20[90m)[39m
+    at DevServer.renderHTML [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:523:41[90m)[39m
+    at doRender [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/base-server.js:809:45[90m)[39m
+    at async cacheEntry1.responseCache.get.incrementalCache.incrementalCache [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/base-server.js:929:28[90m)[39m
+    at async [90m/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/response-cache/index.js:83:36 {
+  page: [32m'/'[39m
+}
+[36mwait[39m  - compiling...
+[35mevent[39m - compiled client and server successfully in 74 ms (177 modules)
+[31merror[39m - Error: The default export is not a React Component in page: "/"
+    at Object.renderToHTML [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/render.js:223:19[90m)[39m
+    at DevServer.renderHTMLImpl [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:535:29[90m)[39m
+    at [90m/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:523:105
+    at NextTracerImpl.trace [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/lib/trace/tracer.js:56:20[90m)[39m
+    at DevServer.renderHTML [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/next-server.js:523:41[90m)[39m
+    at doRender [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/base-server.js:809:45[90m)[39m
+    at async cacheEntry1.responseCache.get.incrementalCache.incrementalCache [90m(/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/base-server.js:929:28[90m)[39m
+    at async [90m/home/skpark/git/pdf_mybot/[39mnode_modules/[4mnext[24m/dist/server/response-cache/index.js:83:36 {
+  page: [32m'/'[39m
+}
